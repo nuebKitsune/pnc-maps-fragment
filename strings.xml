@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP NAME -->
+    <string name="app_name">PNC Mobile</string>
+
+    <!-- NAV DRAWER -->
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- ACTIVITY TITLES -->
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_events_activities">Events &amp; Activities</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_student_handbook">Student Handbook</string>
+
+    <!-- MAPS ACTIVITY -->
+    <string name="maps_action_search">Search</string>
+    <string name="maps_action_goto">Go to...</string>
+    <string name="maps_action_legend">Legend</string>
+    <string name="maps_update_url">https://docs.google.com/uc?id=0B2l9dnGN_k3vQ1NHaDc4TWJOdTQ&amp;export=download</string>
+    <string name="maps_update_filename">maps-purdue.kml</string>
+    <string name="maps_setting_zoom_interior">18.0</string>
+    <string name="maps_setting_font_size">24</string>
+    <string name="maps_dialog_choose_floor">Select a floor</string>
+    <string name="maps_dialog_choose_location">Select a location</string>
+    <string name="maps_dialog_choose_legend">Set visible legends</string>
+    <string name="maps_dialog_search_results">Search results</string>
+    <string name="maps_toast_update_check">Checking for updates...</string>
+    <string name="maps_toast_update_download">Downloading updates...</string>
+    <string name="maps_toast_update_failed">Failed updates...</string>
+    <string name="maps_toast_network_enable">Please enable network for updates!</string>
+    <string name="maps_toast_load_kml">Loading University...</string>
+    <string name="maps_toast_read_kml">This will take a moment...</string>
+
+    <!-- COMMON USE -->
+    <string name="alert_dialog_ok">OK</string>
+
+</resources>
